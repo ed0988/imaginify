@@ -1,13 +1,11 @@
-import { UserButton } from '@clerk/nextjs'
+//"use client"
+
 import React from 'react'
 
-const Home = () => {
+const HomePage = () => {
   return (
-    <div>
-      <p>Home page</p>
-      
-    </div>
+    <div>HomePage</div>
   )
 }
 
-export default Home
+export default HomePage
